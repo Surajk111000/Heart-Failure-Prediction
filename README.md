@@ -1,5 +1,5 @@
-
-Heart Failure Prediction using SVM and ANN
+#Heart Failure Prediction using SVM and ANN
+#Heart Failure Prediction using SVM and ANN
 This project addresses the pressing issue of heart failure mortality by harnessing the power of machine learning. It employs Support Vector Machine (SVM) and Artificial Neural Network (ANN) techniques to predict outcomes with high accuracy.
 The dataset used comprises 12 attributes with potential predictive value for heart failure mortality. These include age, haemoglobin and CPK enzyme levels, diabetes presence, ejection fraction, blood pressure, platelet count, serum creatinine and sodium levels, patient gender, smoking habits, and follow-up duration. The 'DEATH_EVENT' attribute signifies patient outcomes.
 SVM and ANN offer distinct strengths: SVM excels at complex classification, while ANN captures intricate data patterns. By combining them, this project strives to build precise predictive models for heart failure mortality, contributing to timely interventions.
